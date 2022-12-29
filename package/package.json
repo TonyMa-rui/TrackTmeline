@@ -1,0 +1,29 @@
+{
+  "name": "@TrackTmeline",
+  "version": "0.1.1",
+  "description": "一个基于Vue2的时间轴组件，一般用于监控视频的回放。",
+  "main": "index.js",
+  "scripts": {},
+  "authors": [
+    {
+      "name": "码匠",
+      "email": "wr54941094@163.com"
+    },
+    {
+      "name": "个人demo",
+      "url": "https://github.com/TonyMa-rui/TrackTmeline.git"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TonyMa-rui/TrackTmeline.git"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.3"
+  },
+  "keywords": [
+    "canvas",
+    "timeline"
+  ]
+}
